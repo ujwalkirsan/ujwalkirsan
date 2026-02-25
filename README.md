@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ujwalkirsan/ujwalkirsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ujwal.
 
-Here are some ideas to get you started:
+I’m a technology enthusiast with a strong interest in Artificial Intelligence, Data Science, and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving real-world problems, building efficient solutions, and continuously exploring new technologies.
+
+Currently focused on learning, building, and improving every day.
+
+---
+
+### 🚀 What I Like Working On
+- Problem Solving
+- Data-Driven Systems
+- Backend Development
+- System Design
+
+### 📫 Let’s Connect
+- LinkedIn: ([add your link](https://www.linkedin.com/in/ujwalkirsan/))
+- Email: (ujwalkirsan06@gmail.com)
