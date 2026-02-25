@@ -17,5 +17,5 @@ Currently focused on learning, building, and improving every day.
 - System Design
 
 ### 📫 Let’s Connect
-- LinkedIn: ([add your link](https://www.linkedin.com/in/ujwalkirsan/))
+- LinkedIn: ([ujwalkirsan](https://www.linkedin.com/in/ujwalkirsan/))
 - Email: (ujwalkirsan06@gmail.com)
